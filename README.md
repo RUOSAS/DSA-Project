@@ -44,3 +44,8 @@ Eg
 SELECT A,B,C
 WHERE A >B
 ```
+
+### Logo
+
+<img width="350" height="76" alt="KAJAB LOGO" src="https://github.com/user-attachments/assets/4f234de4-59a3-4541-a5f7-c44fe55f1268" />
+
