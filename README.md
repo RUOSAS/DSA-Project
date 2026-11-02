@@ -12,14 +12,35 @@ This document helps a business understand what is selling, how much revenue is b
 
 ### Data Sources
 
-Data sources are the places or systems from which sales information is collected for analysis. They provide the raw information needed to understand sales performance, customer behaviour, revenue, and business growth.
+The primary data sources are the places or systems from which sales information is collected for analysis. They provide the raw information needed to understand sales performance, customer behaviour, revenue, and business growth.
 
 ### Tools Used.
 
-Ms Excel for data cleaning [Click here](https://www.microsoft.com)
+-Ms Excel for data cleaning [Click here](https://www.microsoft.com)
 
-SQL Server (For Querying and Analysis)
+-SQL Server (For Querying and Analysis)
 
-Power BI (For creating a report)
+-Power BI (For creating a report)
 
-Ms Power Point (For Presentation)
+-Ms Power Point (For Presentation)
+
+### Data Cleaning and Presentation
+
+Data cleaning and presentation are important stages of sales data analysis. They help ensure that sales information is accurate, consistent, properly organized, and easy to understand.
+
+1 Removing Duplicates
+
+2 Handling Missing Values
+
+3 Correcting Errors
+
+4 Formatting Data
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
+
+Eg
+```
+SELECT A,B,C
+WHERE A >B
+```
